@@ -1,27 +1,30 @@
-# Inventory Analytics (Excel)
+# Advanced Excel Inventory Dashboard
 
 ## Objective
-Analyze product inventory to identify stock value, availability risks, and category-wise distribution using Excel.
+To analyze product inventory data and identify inventory value distribution, stock risk, and product segmentation using advanced Excel techniques.
 
-## Tools & Skills Used
-- Microsoft Excel
-- Advanced formulas (IF, COUNTIF, SUM)
+## Dataset
+- 100 product records
+- Cleaned and structured inventory data
+- Includes category, brand, stock levels, availability, and pricing information
+
+## Key Skills Demonstrated
+- Excel Tables & Structured References
+- XLOOKUP with helper (mapping) tables
 - Pivot Tables & Pivot Charts
-- KPI Cards
-- Slicers
-- Dashboard Design
-
-## Key KPIs
-- Total Products
-- Total Inventory Value
-- Low Stock Products
-- % Discontinued Products
+- KPI calculation using Excel formulas
+- Interactive Dashboard with Slicers
+- Business-driven data modeling
 
 ## Analysis Performed
-- Inventory value by category
-- Top 10 brands by stock quantity
-- Product availability status
-- Category vs price band distribution
+- Inventory value analysis by Category Type
+- Product count and low-stock risk analysis
+- Brand-tier contribution to total inventory value
+- Availability status overview
 
-## Outcome
-This dashboard enables quick inventory monitoring, identifies low-stock risks, and supports data-driven inventory decisions.
+
+## Tools Used
+- Microsoft Excel (Advanced level)
+
+## Key Takeaway
+This project demonstrates how raw inventory data can be transformed into a decision-ready dashboard using scalable Excel modeling and analysis techniques.
